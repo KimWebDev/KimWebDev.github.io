@@ -1,5 +1,7 @@
-- [Home](/)
-- [Test](/test)
+[Home](/)
+-[Test](/test)
+
+-------------------------
 
 Python
 ```python
