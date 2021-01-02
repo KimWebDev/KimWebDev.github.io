@@ -1,4 +1,5 @@
-# [HOME](https://kimwebdev.github.io)
+- [Home](/)
+- [Test](/test)
 
 Python
 ```python
